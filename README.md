@@ -1,2 +1,2 @@
 # basic-tetris
-a basic tetris game
+A basic tetris game, using vanilla js, html and css, using the freeCodeCamp.org tutorial as base
